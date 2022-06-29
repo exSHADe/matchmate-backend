@@ -1,0 +1,12 @@
+#dependencies 
+/node_modules
+/coverage
+#testing
+coverage
+#production
+/build
+.next
+#env 
+.env
+#cache
+.eslintcache
